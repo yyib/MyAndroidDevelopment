@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Maths Tutor</string>
+    <string name="text_home_message">home_message!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_timesTables">Times Tables</string>
+    <string name="button_numberBonds">Number Bonds</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_timestables">Times Tables</string>
+    <string name="title_activity_number_bonds">Number Bonds</string>
+    <string name="NumberBondsTitle">Number Bonds</string>
+    <string name="TimesTablesTitle">Times Tables</string>
+
+</resources>
