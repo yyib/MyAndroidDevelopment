@@ -13,5 +13,28 @@
     <string name="title_activity_number_bonds">Number Bonds</string>
     <string name="NumberBondsTitle">Number Bonds</string>
     <string name="TimesTablesTitle">Times Tables</string>
+    <string name="title_activity_new">NewActivity</string>
+
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+
+    <string-array name="rivers">
+        <item>Number Bonds 1 to 10</item>
+        <item>Number Bonds 1 to 20</item>
+        <item>Number Bonds 1 to 100</item>
+        <item>All Number Bonds</item>
+        <item>Times tables 1 to 5</item>
+        <item>Times tables 6 to 10</item>
+        <item>Times tables 11 to 12</item>
+        <item>All Times Tables</item>
+        <item>Division by 1 to 5</item>
+        <item>Division by 6 to 10</item>
+        <item>Division by 11 to 12</item>
+        <item>All Division</item>
+
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
